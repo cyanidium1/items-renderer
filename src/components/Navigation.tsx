@@ -61,17 +61,17 @@ function Navigation({ logoText }: { logoText: string }) {
           }}
         >
           <MenuItem onClick={handleCloseNavMenu}>
-            <Typography textAlign="center" component={Link} to={`/menu`}>
+            <Typography textAlign="center" component={Link} to={``}>
               Меню
             </Typography>
           </MenuItem>
           <MenuItem onClick={handleCloseNavMenu}>
-            <Typography textAlign="center" component={Link} to={`/about`}>
+            <Typography textAlign="center" component={Link} to={``}>
               Про нас
             </Typography>
           </MenuItem>
           <MenuItem onClick={handleCloseNavMenu}>
-            <Typography textAlign="center" component={Link} to={`/delivery`}>
+            <Typography textAlign="center" component={Link} to={``}>
               Доставка
             </Typography>
           </MenuItem>
@@ -97,15 +97,15 @@ function Navigation({ logoText }: { logoText: string }) {
       <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
         <Button
           component={Link}
-          to="/menu"
+          to="/"
           onClick={handleCloseNavMenu}
           sx={{ my: 2, color: "white", display: "block" }}
         >
-          Меню
+          Магазин
         </Button>
         <Button
           component={Link}
-          to="/about"
+          to="/"
           onClick={handleCloseNavMenu}
           sx={{ my: 2, color: "white", display: "block" }}
         >
@@ -113,7 +113,7 @@ function Navigation({ logoText }: { logoText: string }) {
         </Button>
         <Button
           component={Link}
-          to="/delivery"
+          to="/"
           onClick={handleCloseNavMenu}
           sx={{ my: 2, color: "white", display: "block" }}
         >

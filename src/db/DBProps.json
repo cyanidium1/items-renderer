@@ -1,0 +1,450 @@
+[
+    {
+        "id": 589137717,
+        "color": "Серый",
+        "density": "125",
+        "fabric_type": "Сатин",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215",
+        "pillowcase": "4 (шт)",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Одного размера"
+    },
+    {
+        "id": 589145445,
+        "color": "Бордовый",
+        "density": "125",
+        "fabric_type": "Сатин",
+        "bedsheet": "200*220",
+        "duvet_cover": "2(шт) 175*215",
+        "pillowcase": "2 (шт)",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Разных размеров"
+    },
+    {
+        "id": 590616657,
+        "pillowcase": "4 (шт)",
+        "fabric_type": "Сатин",
+        "design": "Восточные мотивы",
+        "embroidery": "нет",
+        "color": "Коричневый",
+        "density": "135",
+        "set_type": "Двуспальный",
+        "bedsheet": "200*215, 175*215",
+        "pillowcase_feature": "Разных размеров"
+    },
+    {
+        "id": 591148383,
+        "pillowcase": "4 (шт)",
+        "fabric_type": "Сатин",
+        "design": "Растения, цветы",
+        "embroidery": "нет",
+        "color": "Серый",
+        "density": "125",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "200*215, 220*240",
+        "pillowcase_feature": "1(шт) 200*215"
+    },
+    {
+        "id": 591160421,
+        "pillowcase": "4 (шт)",
+        "fabric_type": "Сатин",
+        "design": "Геометрические узоры",
+        "embroidery": "нет",
+        "color": "Серый",
+        "density": "125",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "200*215, 220*240",
+        "pillowcase_feature": "1(шт) 200*215"
+    },
+    {
+        "id": 591168024,
+        "pillowcase": "4 (шт)",
+        "fabric_type": "Сатин",
+        "design": "Растения, цветы",
+        "embroidery": "нет",
+        "color": "Серый",
+        "density": "125",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "pillowcase_feature": "1(шт) 200*215"
+    },
+    {
+        "id": 591168882,
+        "pillowcase": "4 (шт)",
+        "fabric_type": "Сатин",
+        "design": "Растения, цветы",
+        "embroidery": "нет",
+        "color": "Коричневый",
+        "density": "135",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "pillowcase_feature": "1(шт) 200*215"
+    },
+    {
+        "id": 591169518,
+        "pillowcase": "4 (шт)",
+        "fabric_type": "Сатин",
+        "design": "Растения, цветы",
+        "embroidery": "нет",
+        "color": "Зеленый",
+        "density": "125",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "pillowcase_feature": "1(шт) 200*215"
+    },
+    {
+        "id": 591443579,
+        "pillowcase": "4 (шт)",
+        "fabric_type": "Сатин",
+        "design": "Растения, цветы",
+        "embroidery": "нет",
+        "color": "Розовый",
+        "density": "135",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "pillowcase_feature": "1(шт) 200*215"
+    },
+    {
+        "id": 591451435,
+        "density": "135",
+        "fabric_type": "Сатин",
+        "pillowcase": "да",
+        "embroidery": "нет",
+        "set_quantity": "4 (шт)",
+        "color": "Бежевый",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Одного размера",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 591453893,
+        "set_quantity": "4 (шт)",
+        "fabric_type": "Сатин",
+        "density": "125",
+        "color": "Серый",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Одного размера",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 591454289,
+        "density": "125",
+        "set_type": "Двуспальный Евро",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "design": "Растения, цветы",
+        "pillowcase": "да",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 591455119,
+        "density": "125",
+        "design": "Растения, цветы",
+        "fabric_type": "Сатин",
+        "pillowcase": "да",
+        "pillowcase_length": "70",
+        "pillowcase_width": "50",
+        "material": "Натуральное",
+        "color": "Серый",
+        "set_quantity": "4 (шт)"
+    },
+    {
+        "id": 591460337,
+        "set_type": "Евро макси",
+        "color": "Серый",
+        "set_quantity": "4 (шт)",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 591462806,
+        "set_quantity": "4 (шт)",
+        "design": "Растения, цветы",
+        "pillowcase": "да",
+        "density": "135",
+        "set_type": "Евро макси",
+        "color": "Серый",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 591468300,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Коричневый",
+        "set_type": "Семейный",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": " 2 (шт)150*215 "
+    },
+    {
+        "id": 591502119,
+        "pillowcase_feature": "Разных размеров",
+        "set_type": "Евро макси",
+        "set_quantity": "4 (шт)",
+        "fabric_type": "Бязь",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 591503359,
+        "pillowcase_feature": "Разных размеров",
+        "set_type": "Семейный",
+        "set_quantity": "4 (шт)",
+        "fabric_type": "Бязь",
+        "bedsheet": "220*240",
+        "duvet_cover": " 2 (шт)150*215 "
+    },
+    {
+        "id": 592362018,
+        "density": "125",
+        "set_type": "Двуспальный",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Белый с красными цветами ",
+        "bedsheet": "1(шт) 200*220",
+        "duvet_cover": "1(шт) 175*215"
+    },
+    {
+        "id": 593582076,
+        "pillowcase_feature": "Разных размеров",
+        "set_type": "Двуспальный",
+        "set_quantity": "4 (шт)",
+        "fabric_type": "Бязь",
+        "bedsheet": "1(шт) 200*220",
+        "duvet_cover": "1(шт) 175*215"
+    },
+    {
+        "id": 597821990,
+        "density": "135",
+        "fabric_type": "Сатин",
+        "pillowcase": "да",
+        "set_quantity": "4 (шт)",
+        "color": "Черный",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 597834965,
+        "density": "135",
+        "fabric_type": "Сатин",
+        "pillowcase": "да",
+        "set_quantity": "4 (шт)",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 597843490,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Серый",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 597852784,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "density": "135",
+        "set_type": "Двуспальный Евро",
+        "color": "Бордовый",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 597996643,
+        "set_type": "Семейный",
+        "color": "Бежевый",
+        "pillowcase_feature": "Разных размеров",
+        "set_quantity": "4 (шт)",
+        "bedsheet": "220*240",
+        "duvet_cover": " 2 (шт)150*215 "
+    },
+    {
+        "id": 599512337,
+        "set_quantity": "4 (шт)",
+        "fabric_type": "Бязь",
+        "set_type": "Двуспальный Евро",
+        "color": "Бежевый",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 599564871,
+        "pillowcase": "да",
+        "fabric_type": "Жаккард/Сатин",
+        "set_quantity": "4 (шт)",
+        "density": "145",
+        "set_type": "Двуспальный Евро",
+        "color": "Коричневый",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 599572165,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Голубой",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 599579653,
+        "color": "Голубой",
+        "set_quantity": "2 (шт)",
+        "fabric_type": "Сатин",
+        "set_type": "Двуспальный",
+        "bedsheet": "1(шт) 200*220",
+        "duvet_cover": "1(шт) 175*215"
+    },
+    {
+        "id": 599606009,
+        "set_quantity": "2 (шт)",
+        "fabric_type": "Бязь",
+        "set_type": "Двуспальный",
+        "color": "Бежевый",
+        "design": "Растения, цветы",
+        "bedsheet": "1(шт) 200*220",
+        "duvet_cover": "1(шт) 175*215"
+    },
+    {
+        "id": 599616836,
+        "set_type": "Полуторный",
+        "color": "Бежевый",
+        "set_quantity": "2 (шт)",
+        "fabric_type": "Бязь",
+        "bedsheet": "150*215",
+        "duvet_cover": "150*215"
+    },
+    {
+        "id": 599784582,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Бордовый",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 602085711,
+        "density": "135",
+        "fabric_type": "Сатин",
+        "pillowcase": "да",
+        "set_quantity": "4 (шт)",
+        "color": "Зеленый",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 602778300,
+        "density": "147",
+        "material": "Натуральное",
+        "usage": "Для постельного белья",
+        "width": "220",
+        "color": "Черный",
+        "fabric_type": "Сатин"
+    },
+    {
+        "id": 604883668,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Коричневый",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 605494128,
+        "fabric_type": "Бамбук",
+        "color": "коралловый "
+    },
+    {
+        "id": 606476040,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Черный",
+        "set_type": "Двуспальный Евро",
+        "pillowcase_feature": "Разных размеров",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 606479763,
+        "set_type": "Двуспальный Евро",
+        "color": "Бордовый",
+        "set_quantity": "4 (шт)",
+        "fabric_type": "Сатин",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 608113677,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "4 (шт)",
+        "color": "Коричневый",
+        "set_type": "Двуспальный Евро",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 608142596,
+        "set_type": "Двуспальный Евро",
+        "color": "Темно-серый",
+        "set_quantity": "4 (шт)",
+        "fabric_type": "Сатин",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215"
+    },
+    {
+        "id": 609015737,
+        "pillowcase": "да",
+        "set_quantity": "4 (шт)",
+        "set_type": "Двуспальный Евро",
+        "fabric_type": "Сатин",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215",
+        "color": "коралловый "
+    },
+    {
+        "id": 613199678,
+        "set_type": "Полуторный",
+        "set_quantity": "4 (шт)",
+        "bedsheet": "220*240",
+        "duvet_cover": "1(шт) 200*215",
+        "color": "лиловый"
+    },
+    {
+        "id": 741031344,
+        "pillowcase": "да",
+        "fabric_type": "Сатин",
+        "set_quantity": "2 (шт)",
+        "color": "Черный",
+        "set_type": "Двуспальный",
+        "bedsheet": "1(шт) 200*220",
+        "duvet_cover": "1(шт) 175*215"
+    }
+]

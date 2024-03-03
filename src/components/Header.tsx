@@ -6,7 +6,7 @@ import Navigation from "./Navigation";
 import Logo from "../images/logoHorizontal.webp";
 
 function ResponsiveAppBar() {
-  const logoText = "Tort Albania";
+  const logoText = "DEV VERSION RENDERER";
 
   return (
     <AppBar
@@ -19,11 +19,9 @@ function ResponsiveAppBar() {
     >
       <Container maxWidth="xl">
         <Toolbar sx={{ justifyContent: "space-between" }} disableGutters>
-          <img
-            src={Logo}
-            alt="Logo"
-            className="flex-grow-1 mr-2 md:flex h-12"
-          />
+          <h1 className="text-blue-900 font-extrabold">
+            {logoText}
+          </h1>
           <Navigation logoText={logoText} />
         </Toolbar>
       </Container>
